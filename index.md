@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Titanic, Who Survived?
 
-You can use the [editor on GitHub](https://github.com/gloriaypradal/Titanic_Survival/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Who will survived in Titanic Ship?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project was made based on a Kaggle competition ad it has as a goal to predict which passengers survived the Titanic Shiwreck
+
+Jupyther Notebook was used, and classification predictive models where used to achive this goal
+
+Data was collected from Kagle. Applied EDA with Graph analysis Cleaned and processed to feed the models
+
+Models used: K-Nearest N Logistic Regression Random Forest
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+For more details see [GitHub Repository](https://github.com/gloriaypradal/Titanic_Survival).
 
-- Bulleted
-- List
+### References
+[Kaggle](https://www.youtube.com/watch?v=8yZMXCaFshs)
 
-1. Numbered
-2. List
+### Author
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriaypradal/Titanic_Survival/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gloria Moore
